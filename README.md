@@ -1,5 +1,5 @@
-# news_reading
-##Новини (Underline)
+news_reading
+Новини (Underline)
 =============
 
 програма, надає змогу користувачеві, читати новини. Всі дані беруться з ресурсу : https://newsapi.org.
