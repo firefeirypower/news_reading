@@ -1,4 +1,4 @@
-news_reading
+
 Новини (Underline)
 =============
 
